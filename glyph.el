@@ -1,3 +1,6 @@
+;; https://github.com/tonsky/FiraCode
+;; https://github.com/i-tu/Hasklig/blob/master/README.md
+
 (load-theme 'sanityinc-tomorrow-bright)
 (set-face-font 'default "-*-Hasklig-normal-normal-normal-*-*-*-*-*-m-0-iso10646-1")
 
