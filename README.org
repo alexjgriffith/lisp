@@ -1,0 +1,7 @@
+#+TITLE: Emacs Lisp One Off files
+#+Author: Alexander Griffith
+
+* Set of Files
+A set of emacs lisp files which I use for custamization
+1. Glyph
+2. Develop
